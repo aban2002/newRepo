@@ -1,2 +1,6 @@
 My system Test
+<<<<<<< HEAD
 add from stream1
+=======
+add in maint1
+>>>>>>> refs/remotes/origin/maint1
