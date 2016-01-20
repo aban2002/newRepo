@@ -1,3 +1,4 @@
 test
 add line from testBranch
+add from stream1
 add from maint1
